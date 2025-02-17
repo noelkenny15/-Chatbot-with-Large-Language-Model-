@@ -1,5 +1,4 @@
 # -Chatbot-with-Large-Language-Model-
-Sure! Here's the **README** file without the code and server links:
 
 ---
 
