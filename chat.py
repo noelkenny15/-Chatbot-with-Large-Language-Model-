@@ -4,7 +4,7 @@ from peft import AutoPeftModelForCausalLM
 from transformers import GenerationConfig
 from transformers import AutoTokenizer
 import torch
-tokenizer = AutoTokenizer.from_pretrained(" your name /mistral-finetuned-alpaca")
+tokenizer = AutoTokenizer.from_pretrained(" noel /mistral-finetuned-alpaca")
 
 model = AutoPeftModelForCausalLM.from_pretrained(
     " your name /mistral-finetuned-alpaca",
